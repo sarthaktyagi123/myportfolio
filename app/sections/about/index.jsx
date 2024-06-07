@@ -25,8 +25,8 @@ export function AboutSection() {
 						}}
 					>
 						<p>
-							My name is Vasile. I successfully graduated Technical University of Moldova, computer
-							science faculty.
+							My name is papa johnes. I successfully gaadnuated arjunkimaa, computer
+							science fuckculty.
 						</p>
 						<p>
 							During my university years, I developed a deep passion for web programming, and I
